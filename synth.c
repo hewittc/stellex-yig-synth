@@ -1,6 +1,7 @@
 /*
  * Christopher Hewitt (hewittc@jlab.org)
  * Original code by John Miles (miles@pop.net)
+ * See: http://www.ke5fx.com/stellex.htm
  *
  * synth.c: Control system for Stellex YIG synthesizer
  * AVR Studio 4
