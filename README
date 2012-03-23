@@ -1,0 +1,13 @@
+This code was produced during a university intership and may be useful to 
+someone interested in building their own Stellex YIG synthesizer controller.
+
+For more information, see John Miles' project and documentation here: 
+ * http://www.ke5fx.com/stellex.htm
+
+I make no guarantee this code will work for anyone as I no longer have access
+to the hardware and cannot verify that it works. Maybe somebody will find it
+useful anyway.
+
+
+2012 Christopher Hewitt
+
